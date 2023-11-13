@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doorpink
 - 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning about Marketing analyst and Coding
+- 🌱 I’m currently learning about Marketing Analyst and Coding
 
 <!---
 Doorpink/Doorpink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
